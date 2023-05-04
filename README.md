@@ -4,7 +4,7 @@ A collection of AT Protocol projects. Pull requests welcome!
 
 Maintained by Andrew Young ([@skee.to](https://staging.bsky.app/profile/did:plc:aujkwexvmmcaf77yfxcuitql)):
 
-* [skee.to](https://skee.to/) - a Bluesky one-pager with quick tips and links, hopefully helpful with onboarding
+* [**skee.to**](https://skee.to/) - a Bluesky one-pager with quick tips and links, hopefully helpful with onboarding
 * [young.me](https://young.me/) - my personal website
 
 Other collections:
@@ -15,7 +15,6 @@ Other collections:
 [![license](https://img.shields.io/github/license/andryou/at-is-where-its-at.svg)](https://github.com/andryou/at-is-where-its-at/blob/main/license.txt)
 [![repo size](https://img.shields.io/github/repo-size/andryou/at-is-where-its-at.svg)](https://github.com/andryou/at-is-where-its-at)
 [![contributors](https://img.shields.io/github/contributors/andryou/at-is-where-its-at.svg)](https://github.com/andryou/at-is-where-its-at/graphs/contributors)
-[![commits since last release](https://img.shields.io/github/commits-since/andryou/at-is-where-its-at/latest.svg)](https://github.com/andryou/at-is-where-its-at/commits/main)
 [![last commit](https://img.shields.io/github/last-commit/andryou/at-is-where-its-at.svg)](https://github.com/andryou/at-is-where-its-at/commits/main)
 [![commit activity](https://img.shields.io/github/commit-activity/y/andryou/at-is-where-its-at.svg)](https://github.com/andryou/at-is-where-its-at/commits/main)
 
@@ -86,9 +85,9 @@ Moot 🔒 | A native iOS client for Bluesky | frye ([@frye.bsky.social](https://
 
 | Name | Description | Author | Links |
 | ---------------- | ---- | ------- | --------------- |
+Bluesky Overhaul ([Chrome](https://chrome.google.com/webstore/detail/bluesky-overhaul/cllpkmbebfmadmkkpplnaaffnhjjpgbi) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/bluesky-overhaul/)) | Improves UI and UX for Bluesky web app | Phil Filippak ([@blisstweeting.ingroup.social](https://staging.bsky.app/profile/did:plc:ihbptowbt4tkcjqespanfbez)) | [Repo](https://github.com/xenohunter/bluesky-overhaul)
 [Blueswan (Chrome)](https://chrome.google.com/webstore/detail/blueswan/cnenmkcimleaeklmeflfnejicbhndlko) | Sky without annoying numbers | カワリミ人形 ([@kawarimidoll.bsky.social](https://staging.bsky.app/profile/did:plc:okalufxun5rpqzdrwf5bpu3d)) | 
 [OmniATP 🔒 (Chrome)](https://chrome.google.com/webstore/detail/omniatp/ngfefjjphfmafhmhbpjccedmkbbcmngf) | Create a post from Chrome's URL bar | CodingFeline ([@codingfeline.com](https://staging.bsky.app/profile/did:plc:64nvfmwx7tqzr7i7bq5woiby)) | [Repo](https://github.com/yshrsmz/omniatp)
-Bluesky Overhaul ([Chrome](https://chrome.google.com/webstore/detail/bluesky-overhaul/cllpkmbebfmadmkkpplnaaffnhjjpgbi) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/bluesky-overhaul/)) | Improves UI and UX for Bluesky web app | Phil Filippak ([@blisstweeting.ingroup.social](https://staging.bsky.app/profile/did:plc:ihbptowbt4tkcjqespanfbez)) | [Repo](https://github.com/xenohunter/bluesky-overhaul)
 
 🔒 = Login required (app password recommended)
 
