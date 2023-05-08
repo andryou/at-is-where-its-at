@@ -92,6 +92,7 @@ Moot 🔒 | A native iOS client for Bluesky | frye ([@frye.bsky.social](https://
 Bluesky Overhaul ([Chrome](https://chrome.google.com/webstore/detail/bluesky-overhaul/cllpkmbebfmadmkkpplnaaffnhjjpgbi) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/bluesky-overhaul/)) | Improves UI and UX for Bluesky web app | Phil Filippak ([@blisstweeting.ingroup.social](https://staging.bsky.app/profile/did:plc:ihbptowbt4tkcjqespanfbez)) | [Repo](https://github.com/xenohunter/bluesky-overhaul)
 [Blueswan (Chrome)](https://chrome.google.com/webstore/detail/blueswan/cnenmkcimleaeklmeflfnejicbhndlko) | Sky without annoying numbers | カワリミ人形 ([@kawarimidoll.bsky.social](https://staging.bsky.app/profile/did:plc:okalufxun5rpqzdrwf5bpu3d)) | 
 [OmniATP 🔒 (Chrome)](https://chrome.google.com/webstore/detail/omniatp/ngfefjjphfmafhmhbpjccedmkbbcmngf) | Create a post from Chrome's URL bar | CodingFeline ([@codingfeline.com](https://staging.bsky.app/profile/did:plc:64nvfmwx7tqzr7i7bq5woiby)) | [Repo](https://github.com/yshrsmz/omniatp)
+SkyLink ([Chrome](https://chrome.google.com/webstore/detail/skylink-bluesky-did-detec/aflpfginfpjhanhkmdpohpggpolfopmb) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/skylink-bluesky-did-detector/)) | Lights up blue when you’re on a domain that's linked to a bluesky profile | Jesse J. Anderson ([@adhdjesse.com](https://staging.bsky.app/profile/did:plc:f55kfczvcsjlaota4ep2xvhx)) | [Repo](https://github.com/jessejanderson/skylink)
 
 🔒 = Login required (app password recommended)
 
