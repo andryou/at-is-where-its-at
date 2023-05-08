@@ -66,6 +66,7 @@ Other collections:
 [@spells.bsky.social](https://staging.bsky.app/profile/did:plc:lpllusqzlkopqm7pvbi4go5s) | Spells every hour. Cast them wisely | Recurring | michael ([@mikuhl.me](https://staging.bsky.app/profile/did:plc:6f2lm6ma2dlnmdss3pf65gnd)) | [Repo](https://github.com/MichaelPriebe/emoji-spells-bot)
 [@splatoon3.ink](https://staging.bsky.app/profile/did:plc:khik6vek4ferwhhg2ymtta3w) | Splatoon 3 map rotations, Salmon Run schedules, SplatNet gear, and more | Recurring | ike ([@ike.bsky.social](https://staging.bsky.app/profile/did:plc:lf2rlq4duoer7zi3lltol54g)) | 
 [@thursaconcept.bsky.social](https://staging.bsky.app/profile/did:plc:alrumxt2a56ek5b57w2c3unv) | Posts a screencap every Thursday at 10:00am Eastern from the Netflix series Russian Doll | Recurring (Thu @ 10:00am ET) | Andrew Young ([@skee.to](https://staging.bsky.app/profile/did:plc:aujkwexvmmcaf77yfxcuitql)) | 
+[@whatsmid.bsky.social](https://staging.bsky.app/profile/did:plc:iw47x7htlvpkbbizqn2sgnks) | Reposts posts by followers which are close to making it to the What's Hot feed | Auto-reposts | Tom ([@tomh.social](https://staging.bsky.app/profile/did:plc:jas7436s6tmtuodknhtovyjo)) | 
 
 ## Clients
 
